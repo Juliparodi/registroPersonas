@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "registroPersonasConsole", "registroPersonasConsole\registroPersonasConsole.csproj", "{90146BED-B3EB-4509-83CE-DBDDF0F89B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "registroPersonasLibrary", "registroPersonasLibrary\registroPersonasLibrary.csproj", "{AC1F7428-FAA0-403B-9FD8-618B04B13EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90146BED-B3EB-4509-83CE-DBDDF0F89B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90146BED-B3EB-4509-83CE-DBDDF0F89B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90146BED-B3EB-4509-83CE-DBDDF0F89B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90146BED-B3EB-4509-83CE-DBDDF0F89B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1F7428-FAA0-403B-9FD8-618B04B13EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1F7428-FAA0-403B-9FD8-618B04B13EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1F7428-FAA0-403B-9FD8-618B04B13EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1F7428-FAA0-403B-9FD8-618B04B13EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DC40E6A-90C7-4340-8B3B-8F091ACD6179}
+	EndGlobalSection
+EndGlobal
